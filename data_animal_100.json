@@ -1,0 +1,401 @@
+[ {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SHORT",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "HIGH",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "HEAVY"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "HIGH",
+  "weight" : "HEAVY"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "CARNIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SHORT",
+  "weight" : "MEDIUM"
+}, {
+  "type" : "OMNIVORE",
+  "height" : "SMALL",
+  "weight" : "LIGHT"
+}, {
+  "type" : "HERBIVORE",
+  "height" : "SMALL",
+  "weight" : "MEDIUM"
+} ]

@@ -1,0 +1,45 @@
+[
+  {
+    "params": {
+      "type": {
+        "operator": "EQ",
+        "value": [
+          "OMNIVORE",
+          "HERBIVORE",
+          "CARNIVORE"
+        ]
+      },
+      "height": {
+        "operator": "EQ",
+        "value": [
+          "SHORT"
+        ]
+      },
+      "weight": {
+        "operator": "EQ",
+        "value": "HEAVY"
+      }
+    }
+  },
+  {
+    "params": {
+      "type": {
+        "operator": "EQ",
+        "value": [
+          "OMNIVORE",
+          "HERBIVORE"
+        ]
+      },
+      "height": {
+        "operator": "EQ",
+        "value": [
+          "SHORT"
+        ]
+      },
+      "weight": {
+        "operator": "NE",
+        "value": "HEAVY"
+      }
+    }
+  }
+]
